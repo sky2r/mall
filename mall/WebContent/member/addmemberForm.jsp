@@ -26,13 +26,13 @@
   <div class="col-sm-3 sidebar-bg">
   	<ul>
   		<li>
-  		<a href="">홈으로</a>		
+  		<a href="/mall/index.jsp">홈으로</a>		
   		</li>
-  		</ul>
+  	</ul>
+  		</div>
   		<div class="col-sm-9">
   		<div class="jumbotron">
-  		<h1>hello my mall</h1>
-  		<p>우리 쇼핑몰은</p>
+  		<h1>회원가입 폼</h1>  		
   		<div class="page-header">
                 <div class="col-md-6 col-md-offset-3">
                 <h3>회원가입 Form</h3>
