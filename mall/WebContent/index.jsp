@@ -6,8 +6,9 @@
 <title>Insert title here</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"></head>
 <style>
-	.sidebar_bg {
+	.sidebar-bg {
 		background: gray;
 	}
 </style>
@@ -23,24 +24,23 @@
 <body>
 <div class="container">
 <div class="row">
-  <div class="col-sm-3 sidebar_bg">
+  <div class="col-sm-3 sidebar-bg">
   	<ul>
   		<li>
-  		<a href="">홈으로</a>		
+  		<i class="fas fa-thumbs-up"></i>
+  		<a href="/mall/index.jsp">홈으로</a>	
+  		</li>
+  		<li>
+  		<a href="/mall/member/addmemberForm.jsp">홈으로</a>		
   		</li>
   		</ul>
   		<div class="col-sm-9">
   		<div class="jumbotron">
   		<h1>hello my mall</h1>
-  		<p>우리 쇼핑몰은</p>
-  <h1>Bootstrap Tutorial</h1> 
-  <p>Bootstrap is the most popular HTML, CSS...</p> 
+  		<p>우리 쇼핑몰은.....</p>
+	</div>	 	
+  </div> 
 </div>
-	
-  	</ul>
-  </div>
-  
 </div>
-
 </body>
 </html>
